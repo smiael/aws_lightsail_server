@@ -4,6 +4,7 @@ Take a baseline installation of a Linux server and prepare it to host web applic
 IP Address: 18.217.173.48
 PORT: 2200
 SSH Key: I included the private key in the "Notes to Reviewer" section when I submitted my project.
+Installed software is Python, Apache, and PostgreSQL.
 ## Step 1 - Get the server running
 Created a default instance of a Linux server on Amazon Lightsail, and then updated all currently installed packages by running:
 
